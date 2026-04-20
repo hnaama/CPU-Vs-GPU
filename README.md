@@ -79,7 +79,7 @@ sudo pkg install sdl2 glew
 ## Build and run
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/hnaama/CPU-Vs-GPU.git
 cd Software-Renderer
 make
 ./build/software_renderer
